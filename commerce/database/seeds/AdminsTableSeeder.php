@@ -13,7 +13,9 @@ class AdminsTableSeeder extends Seeder
     {
         DB::table('admins')->delete();
         $adminRecords = [
-            ['id'=>1,'name'=>'admin','type'=>'admin','mobile'=>'0651534293','email'=>'admin@admin.com','password'=>''
+            ['id'=>1,'name'=>'max','type'=>'admin','mobile'=>'0651534293','email'=>'max@admin.com','password'=>'$2y$10$rbi1se0XTJhM38yqJz3yW.XJok4lDbrx0Vt.K6VSy41jpdOGDQA72'
+            ],
+            ['id'=>2,'name'=>'mat','type'=>'admin','mobile'=>'none','email'=>'mat@admin.com','password'=>'$2y$10$rbi1se0XTJhM38yqJz3yW.XJok4lDbrx0Vt.K6VSy41jpdOGDQA72'
             ],
         ];
 

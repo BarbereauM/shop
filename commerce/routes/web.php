@@ -13,9 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+/*Route::get('/', function () {
     return view('welcome');
-});
+});*/
 
 Auth::routes();
 
@@ -28,4 +28,8 @@ Route::prefix('/admin')->namespace('Admin')->group(function(){
         Route::get('dashboard','AdminController@dashboard');
         Route::get('logout','AdminController@logout');
     });
+});
+
+Route::namespace('Front')->group(function(){
+    Route::get('/','IndexController@index');
 });

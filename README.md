@@ -4,11 +4,11 @@ Home:
 
 <a href="https://ibb.co/q9Spwz5"><img src="https://i.ibb.co/HYSqQ0d/screenindex.png" alt="screenindex" border="0"></a>
 
-admin session: (acces commerce/public/admin/dashboard) You can't access without being logged.
+Admin session: (acces commerce/public/admin/dashboard) You can't access without being logged.
 
 <a href="https://ibb.co/bX6yfPW"><img src="https://i.ibb.co/89mRh0K/screenadminsession.png" alt="screenadminsession" border="0"></a>
 
-admin login: (acces commerce/public/admin) email:max@admin.com or mat@admin.com password:8e14e90
+Admin login: (acces commerce/public/admin) email:max@admin.com or mat@admin.com password:8e14e90
 
 <a href="https://ibb.co/Rjtm73t"><img src="https://i.ibb.co/J384Cv8/screenadminlogin.png" alt="screenadminlogin" border="0"></a>
 

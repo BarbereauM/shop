@@ -6,9 +6,8 @@ Home:
 
 admin session:
 
-<img src="https://opengameart.org/sites/default/files/styles/medium/public/mockup_3.png">
+<a href="https://ibb.co/bX6yfPW"><img src="https://i.ibb.co/89mRh0K/screenadminsession.png" alt="screenadminsession" border="0"></a>
 
 admin login:
 
-
-<img src="https://opengameart.org/sites/default/files/styles/medium/public/mockup_3.png">
+<a href="https://ibb.co/Rjtm73t"><img src="https://i.ibb.co/J384Cv8/screenadminlogin.png" alt="screenadminlogin" border="0"></a>
